@@ -12,24 +12,6 @@ Inspired from Qt-based [SMPlayer](https://www.smplayer.info/) and only problem I
 
 ## Screenshots
 
-<style>
-figure {
-  margin: 0 0 20px 0;
-  text-align: center;
-}
-figure img {
-  border: 2px solid #ddd;
-  border-radius: 4px;
-  max-width: 100%;
-  height: auto;
-}
-figure figcaption {
-  margin-top: 8px;
-  font-style: italic;
-  color: #666;
-}
-</style>
-
 <figure>
   <img src="assets/screenshot-BigBuckBunny-windowed.png" alt="Main Player Window" width="600">
   <figcaption><em>Main player window with controls and time display</em></figcaption>
