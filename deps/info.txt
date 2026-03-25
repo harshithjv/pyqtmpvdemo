@@ -1,0 +1,3 @@
+A Placeholder directory to story dependent library or executables.
+
+This directory can be set to PATH environment variable.
